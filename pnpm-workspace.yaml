@@ -1,4 +1,4 @@
 packages:
-  - 'client-ssr'
-  - 'server'
+  - 'client'
+  - 'backend'
   - 'modules'

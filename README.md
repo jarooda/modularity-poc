@@ -4,14 +4,12 @@ This project demonstrates a modular frontend architecture using Nuxt, with dynam
 
 ## ✅ Features
 
-- [ ] **Website Icon (Favicon Support)**
+- [x] **Website Icon (Favicon Support) & Title**
 - [ ] **SEO Control**
-  - Dynamic meta tags
-  - Configurable `robots.txt`
-  - Sitemap support
-- [ ] **Theming System**
-  - Light/dark mode
-  - Configurable themes via layer or API
+  - [x] Dynamic meta tags
+  - [ ] Configurable `robots.txt`
+- [x] **Theming System**
+  - [x] Configurable themes via layer or API
 
 ## 🛠 How to Run
 

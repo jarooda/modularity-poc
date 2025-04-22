@@ -4,11 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "pnpm --filter client-ssr dev & pnpm --filter server dev & pnpm --filter modules dev"
+    "dev": "pnpm --filter client dev & pnpm --filter backend dev & pnpm --filter modules dev"
   },
   "workspaces": [
     "server",
-    "client-ssr",
+    "client",
     "modules"
   ],
   "keywords": [],

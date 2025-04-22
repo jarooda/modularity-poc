@@ -23,6 +23,7 @@
     "id": "client-a",
     "name": "Client A",
     "logo": "https://placehold.co/300x100?text=Logo+Client+A",
+    "favicon": "https://placehold.co/100x100?text=Favicon+Client+A",
     "description": "Client A is a leading provider of innovative solutions in the tech industry.",
     "theme": {
       "primaryColor": "#3498db",
@@ -41,6 +42,7 @@
     "id": "client-b",
     "name": "Client B",
     "logo": "https://placehold.co/300x100?text=Logo+Client+B",
+    "favicon": "https://placehold.co/100x100?text=Favicon+Client+B",
     "description": "Client B is a global leader in providing top-notch services and products.",
     "theme": {
       "primaryColor": "#e74c3c",

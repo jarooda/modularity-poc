@@ -9,8 +9,11 @@ const props = defineProps({
 
 <template>
   <div>
-    <h1>Module One</h1>
+    <h1>Module Finance</h1>
     <p>{{ props.text }}</p>
+    <p>
+      This is a module that is loaded from different directory. It is not a page, but a module that can be used in any page.
+    </p>
   </div>
 </template>
 
