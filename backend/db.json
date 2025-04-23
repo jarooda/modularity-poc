@@ -26,10 +26,10 @@
     "favicon": "https://placehold.co/100x100?text=Favicon+Client+A",
     "description": "Client A is a leading provider of innovative solutions in the tech industry.",
     "theme": {
-      "primaryColor": "#3498db",
-      "secondaryColor": "#2ecc71",
-      "backgroundColor": "#ecf0f1",
-      "textColor": "#2c3e50"
+      "primaryColor": "247",
+      "secondaryColor": "181",
+      "backgroundColor": "53",
+      "textColor": "242"
     },
     "glossary": {
       "hello": "Halo Dunia",
@@ -45,10 +45,10 @@
     "favicon": "https://placehold.co/100x100?text=Favicon+Client+B",
     "description": "Client B is a global leader in providing top-notch services and products.",
     "theme": {
-      "primaryColor": "#e74c3c",
-      "secondaryColor": "#8e44ad",
-      "backgroundColor": "#cccccc",
-      "textColor": "#2c3e50"
+      "primaryColor": "341",
+      "secondaryColor": "58",
+      "backgroundColor": "283",
+      "textColor": "13"
     },
     "glossary": {
       "hello": "Halo Halo Bandung",
